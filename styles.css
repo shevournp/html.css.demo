@@ -1,0 +1,30 @@
+h2, h3 {
+    float:center;
+    color:
+
+}
+
+p{
+    font-size: 70px;
+    float:center;
+
+    
+}
+
+img{
+     height: 250px;
+     border: dotted;
+     margin: auto;
+     float:center;
+    
+}
+
+div {
+    background-color:aquamarine; 
+    font-style: normal;
+    text-align: center;
+    float: center;
+    
+     
+
+}
